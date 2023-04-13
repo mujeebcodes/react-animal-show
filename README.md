@@ -1,3 +1,3 @@
 # react-animal-show
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-qewvzj)
+This is just a simple project to practice state and event system in react.
